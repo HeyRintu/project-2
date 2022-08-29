@@ -5,7 +5,7 @@
 
 ## **Time taken :** ✍🏼
 
->### It took me about 2 Hours to complete this project.
+>### It took me about 20min to complete this project.
 <br>
 
 ## **Live Demo**  💻 
@@ -23,7 +23,7 @@
 ## **Tools** 🪛
 >Vscode , HTML , CSS
 
-<br>
+<br>s
 
 ## **FeedBack**🥷🏼
 
