@@ -1,4 +1,4 @@
-# **Project 01: 2025 Landing page**
+# **Project 02:**
 
 ## **Name:**  _Rintu Mondal_.🧑🏽‍💻
 <br>
